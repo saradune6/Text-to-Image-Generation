@@ -1,4 +1,4 @@
-# Text-to-Image Generation with SDXL Turbo
+# Text-to-Image Generation with SDXL Turbo 
 
 This project is a **Streamlit-based web application** that uses **Stable Diffusion XL Turbo** to generate images from text prompts. It automatically detects the best device for inference (MPS for Apple Silicon, CUDA for GPUs, or CPU as a fallback).
 
