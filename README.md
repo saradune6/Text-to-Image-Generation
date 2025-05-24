@@ -56,3 +56,5 @@ Baby in car
 ```
 ![Generated Image](generated_image.png)
 
+## Diagram
+![Generated Image](diag.png)
